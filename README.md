@@ -86,8 +86,8 @@ Mi objetivo es **iniciar y crecer profesionalmente como Ingeniero de Datos**, ap
 
 ## 📬 Contacto
 
-* 💼 GitHub: *[(agregar enlace)](https://github.com/johansd1994/johansd1994)*
-* 🔗 LinkedIn: *[(agregar enlace)](https://www.linkedin.com/in/johan-mauricio-suarez-daza-0482021a7/)*
+* 💼 GitHub: *[(Perfil GitHub)](https://github.com/johansd1994/johansd1994)*
+* 🔗 LinkedIn: *[(Perfil LinkedIn)](https://www.linkedin.com/in/johan-mauricio-suarez-daza-0482021a7/)*
 
 ---
 
